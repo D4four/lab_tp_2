@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4991c0ee-6bcd-472f-af1d-bf7b09954932": {
+      "ProjectGuid": "4991c0ee-6bcd-472f-af1d-bf7b09954932",
+      "DisplayName": "1042_konovalov_d_v_tp",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\stud\1042_konovalov_d_v_tp\1042_konovalov_d_v_tp\main.cpp(87,17): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  queue.cpp
+D:\stud\1042_konovalov_d_v_tp\1042_konovalov_d_v_tp\queue.cpp(43,10): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+D:\stud\1042_konovalov_d_v_tp\1042_konovalov_d_v_tp\queue.cpp(51): warning C4715: parQueue::get_first: значение возвращается не при всех путях выполнения
+  1042_konovalov_d_v_tp.vcxproj -> D:\stud\1042_konovalov_d_v_tp\x64\Debug\1042_konovalov_d_v_tp.exe
